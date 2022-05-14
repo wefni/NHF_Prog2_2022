@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1650904639 source:c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\cpp\allomasok.cpp
+
+1650904690 source:c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\cpp\bankszamla.cpp
+
+1650904676 source:c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\cpp\felhasznalo.cpp
+
+1650904656 source:c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\cpp\menetjegy.cpp
+
+1650904620 source:c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\cpp\vonatok.cpp
+
+1652528044 source:c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\main.cpp
+	<iostream>
+	"felhasznalo.h"
+	"allomasok.h"
+	"string5.h"
+	"teszt_esetek.h"
+	"memtrace.h"
+
+1652527923 source:c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\allomasok.cpp
+	"string5.h"
+	"allomasok.h"
+	"memtrace.h"
+
+1652528038 source:c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\bankszamla.cpp
+	"bankszamla.h"
+	"string5.h"
+	"memtrace.h"
+	<string.h>
+
+1652528035 source:c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\menetjegy.cpp
+	"string5.h"
+	"menetjegy.h"
+	"memtrace.h"
+
+1652528058 source:c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\string5.cpp
+	<iostream>
+	<cstring>
+	"string5.h"
+	"memtrace.h"
+
+1652528015 c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\string5.h
+	<iostream>
+	"memtrace.h"
+
+1652527935 source:c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\vonatok.cpp
+	"vonatok.h"
+	"string5.h"
+	"memtrace.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1652527930 source:c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\felhasznalo.cpp
+	"string5.h"
+	"felhasznalo.h"
+	"memtrace.h"
+	<string.h>
+
+1652527995 c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\felhasznalo.h
+	"string5.h"
+	"menetjegy.h"
+	"memtrace.h"
+	"bankszamla.h"
+
+1652528161 c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\menetjegy.h
+	"string5.h"
+	"memtrace.h"
+	"vonatok.h"
+
+1652527997 c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\vonatok.h
+	"string5.h"
+	"memtrace.h"
+	"allomasok.h"
+
+1652527954 c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\allomasok.h
+	"string5.h"
+	"memtrace.h"
+
+1652528005 c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\teszt_esetek.h
+	"memtrace.h"
+
+1652533471 source:c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\teszt_esetek.cpp
+	"allomasok.h"
+	"string5.h"
+	"teszt_esetek.h"
+	"gtest_lite.h"
+	"vonatok.h"
+	"menetjegy.h"
+	"bankszamla.h"
+	"felhasznalo.h"
+	"vonatok_hetero.h"
+	"memtrace.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1651527304 c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1652527986 c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\bankszamla.h
+	"string5.h"
+	"memtrace.h"
+
+1616620032 c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1652123333 source:c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1652533698 source:c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\vonatok_hetero.cpp
+	"vonatok_hetero.h"
+	"memtrace.h"
+
+1652528713 c:\users\david\desktop\prog2nagyhazi\nhf\menetjegy\vonatok_hetero.h
+	"vonatok.h"
+	"memtrace.h"
+
